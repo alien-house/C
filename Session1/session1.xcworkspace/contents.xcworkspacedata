@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:scan/scan.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Assignment01_170116/Assignment01_170116.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:FifthProject/FifthProject.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ForthProject/ForthProject.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ThirdProject/ThirdProject.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PrintExample/PrintExample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:HelloWorld/HelloWorld.xcodeproj">
+   </FileRef>
+</Workspace>
