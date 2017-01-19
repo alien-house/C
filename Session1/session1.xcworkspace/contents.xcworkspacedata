@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:addworkstatment/addworkstatment.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:scan/scan.xcodeproj">
    </FileRef>
    <FileRef
