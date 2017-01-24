@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:pointer/pointer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Challenge10/Challenge10.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Challenge6_1/Challenge6_1.xcodeproj">
    </FileRef>
 </Workspace>
