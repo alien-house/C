@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Assignment05_Bonus/Assignment05_Bonus.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Assignment05_07/Assignment05_07.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Assignment05_06/Assignment05_06.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Assignment05_05/Assignment05_05.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Assignment05_04/Assignment05_04.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Assignment05_03/Assignment05_03.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Assignment05_02/Assignment05_02.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Assignment05_01/Assignment05_01.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Assignment05/Assignment05.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:searchNumber/searchNumber.xcodeproj">
+   </FileRef>
+</Workspace>
