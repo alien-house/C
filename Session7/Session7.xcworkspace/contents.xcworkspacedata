@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Assignment5-2_3/Assignment5-2_3.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Assignment5-2_2/Assignment5-2_2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Assignment5-2_1/Assignment5-2_1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:update/update.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:arrayPointer/arrayPointer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:pointer/pointer.xcodeproj">
+   </FileRef>
+</Workspace>

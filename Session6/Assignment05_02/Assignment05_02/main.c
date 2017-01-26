@@ -29,8 +29,8 @@ void inputPrintArray(void){
     printf("Problem 2 \n");
     printf("==========================\n");
     printf("Please input 5 numbers\n");
-    int array[5];
-    for (int i = 0; i < 5; i++) {
+    int array[n];
+    for (int i = 0; i < n; i++) {
         printf("%d number?:",i+1);
         scanf("%d",&array[i]);
     }
