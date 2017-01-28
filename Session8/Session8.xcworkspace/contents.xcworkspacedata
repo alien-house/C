@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Midterm1_50/Midterm1_50.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Midterm1_48/Midterm1_48.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Midterm1_40/Midterm1_40.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Midterm1_39/Midterm1_39.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Midterm1_38/Midterm1_38.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Midterm1_37/Midterm1_37.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Midterm1_36/Midterm1_36.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Midterm1/Midterm1.xcodeproj">
+   </FileRef>
+</Workspace>
