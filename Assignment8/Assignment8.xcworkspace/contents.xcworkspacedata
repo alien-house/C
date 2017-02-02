@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Problem5_15/Problem5_15.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Problem5_14/Problem5_14.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Problem5_13/Problem5_13.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Problem5_12/Problem5_12.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Problem5_11/Problem5_11.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Problem5_10/Problem5_10.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Problem5_09/Problem5_09.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Problem5_08/Problem5_08.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Problem5_07/Problem5_07.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Problem5_06/Problem5_06.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Problem5_05/Problem5_05.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Problem5_04/Problem5_04.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Problem5_03/Problem5_03.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Problem5_02/Problem5_02.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Problem5_01/Problem5_01.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Problem4/Problem4.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Problem3/Problem3.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Problem2/Problem2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Problem1/Problem1.xcodeproj">
+   </FileRef>
+</Workspace>
